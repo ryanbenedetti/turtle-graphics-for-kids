@@ -1,0 +1,16 @@
+import turtle
+turtle.bgcolor("black")
+t = turtle.Pen()
+t.pencolor("red")
+t.forward(50)
+t.pencolor("orange")
+t.forward(50)
+t.pencolor("yellow")
+t.forward(50)
+t.pencolor("blue")
+t.forward(50)
+t.pencolor("indigo")
+t.forward(50)
+t.pencolor("violet")
+t.forward(50)
+
