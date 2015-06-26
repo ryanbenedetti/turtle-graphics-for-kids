@@ -12,7 +12,7 @@ The robotic turtle migrated to the computer screen, where students create a “t
 The modern Python programming language stayed true to the spirit of Papert’s turtle graphics concepts by including a full turtle graphics module that works a lot like the original LOGO turtle graphics worked.
 
 Some online resources for Turtle Graphics:
-[Open Book Project: Hellow Little Turtles](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
+[Open Book Project: Hello Little Turtles](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
 [Python 3: Turtle Directions](http://www.eg.bucknell.edu/~hyde/Python3/TurtleDirections.html)
 [Python Turtle](https://docs.python.org/3.1/library/turtle.html)
 [Fifty Examples](https://fiftyexamples.readthedocs.org/en/latest/turtle.html)
