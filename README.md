@@ -15,11 +15,11 @@ Some online resources for learning and teaching Turtle Graphics:
 
 [Open Book Project: Hello Little Turtles](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
 
-[Python 3: Turtle Directions](http://www.eg.bucknell.edu/~hyde/Python3/TurtleDirections.html)
-
 [Python 3: Turtle Graphics Documentation](https://docs.python.org/3.1/library/turtle.html)
 
 [Fifty Examples: Drawing Graphics](https://fiftyexamples.readthedocs.org/en/latest/turtle.html)
+
+[Bucknell University: Python 3 Turtle Directions](http://www.eg.bucknell.edu/~hyde/Python3/TurtleDirections.html)
 
 *For more about Seymour Papert and Logo, visit the Logo Foundation site here: http://el.media.mit.edu/logo-foundation/what_is_logo/history.html
 
