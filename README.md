@@ -13,9 +13,9 @@ The modern Python programming language stayed true to the spirit of Papert’s t
 
 Some online resources for learning and teaching Turtle Graphics:
 
-[Open Book Project: Hello Little Turtles](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
-
 [Python 3: Turtle Graphics Documentation](https://docs.python.org/3.1/library/turtle.html)
+
+[Open Book Project: Hello Little Turtles](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
 
 [Fifty Examples: Drawing Graphics](https://fiftyexamples.readthedocs.org/en/latest/turtle.html)
 
